@@ -40,7 +40,7 @@ from googletrans import Translator
 from zalgo_text import zalgo
 from humanfriendly import format_timespan, format_size, format_number, format_length
 from threading import Thread,Event
-#import requests,uvloop
+import requests,uvloop
 from random import randint
 import html5lib,shutil
 import wikipedia,goslate
